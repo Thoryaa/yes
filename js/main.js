@@ -38,3 +38,13 @@ if (!uemail.match(mailformat)) {
 function movecard() {
     document.getElementsByName('card').style.transform = 'rotate(45 deg)';
 }
+
+
+
+
+
+/** 
+document.getElementById('avatar').style.borderBottomRightadius = '306%';
+document.getElementById('avatar').style.borderTopRightRadius = '293%';
+document.getElementById('avatar').style.borderBottomLeftRadius = '293%';
+document.getElementById('avatar').style.borderTopLeftRadius = '1%';*/
