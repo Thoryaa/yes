@@ -15,7 +15,7 @@ function openmenu2() {
     document.getElementById('log').style.marginLeft = '300px';
 }
 /** chande mode of  page */
-function chandemode() {
+function changemode() {
     var element = document.body;
     element.classList.toggle("dark-mode");
 }
